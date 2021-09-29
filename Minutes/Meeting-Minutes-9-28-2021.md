@@ -4,3 +4,4 @@
     - Josh finished his sections
     - Mark finished his sections
     - Nate finished his sections
+* Clarified whether users can train the different AI's or they can just play with the AI.. Decided that users can just play with the AI
