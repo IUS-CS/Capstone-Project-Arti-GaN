@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@MarkoBridgewater 
-IUS-CS
-/
-Capstone-Project-Arti-GaN
-Public
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-1
-Wiki
-Security
-Insights
-Settings
-Capstone-Project-Arti-GaN/README.md
-@IAMNameless9t9
-IAMNameless9t9 Update README.md
-Latest commit 9fb5840 12 minutes ago
- History
- 2 contributors
-@IAMNameless9t9@MarkoBridgewater
-23 lines (13 sloc)  2.47 KB
-   
 # Arti-GaN
 
 Nathanael L. Mann (IAMNameless9t9), Mark Bridgewater (MarkoBridgewater), Joshua Carrier (jcarrier0026)
